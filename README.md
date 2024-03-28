@@ -68,7 +68,7 @@
 1. Github
 
 ```shell
-git clone git@github.com:dishait/tov-template.git
+git clone https://github.com/dishait/tov-template.git
 ```
 
 2. Gitee
